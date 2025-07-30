@@ -160,7 +160,7 @@ Graph-EpubReader는 **GraphRAG를 활용한 최초의 파일럿 프로젝트**�
 
 ## 📄 관련 문서 📄
 
-- [2024 SW중심대학 연합 SW FESTIVAL (빅데이터/인공지능 부문) 제출PDF](https://github.com/user-attachments/files/18728207/2024.SW._.pdf)
+- [2024 SW중심대학 연합 SW FESTIVAL (빅데이터/인공지능 부문) 판넬 PDF](https://github.com/user-attachments/files/18728207/2024.SW._.pdf)
 
 ---
 
